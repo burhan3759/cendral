@@ -26,9 +26,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: phone
+  - title: Phone
+    icon: phone
     url: https://twitter.com/SBootstrap
-  - title: envelope
+  - title: Email Us
+    icon: envelope
     url: https://github.com/IronSummitMedia/startbootstrap
-  - title: map-marker
+  - title: Location
+    icon: map-marker
     url: 
