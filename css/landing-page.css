@@ -164,3 +164,11 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.pnumber {
+    font-size: 1.5em;
+}
+
+.email {
+    font-size: 1.5em;
+}
